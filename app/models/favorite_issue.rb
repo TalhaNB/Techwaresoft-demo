@@ -1,0 +1,2 @@
+class FavoriteIssue < ApplicationRecord
+end
